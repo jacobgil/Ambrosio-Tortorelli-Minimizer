@@ -60,8 +60,8 @@ class AmbrosioTortorelliMinimizer():
 
 	def minimize(self):
 		for i in range(0, self.iterations):
-			solver.solve_edges()
-			solver.solve_image()
+			self.solve_edges()
+			self.solve_image()
 
 		self.edges = np.power(self.edges, 0.5)
 		cv2.normalize(self.f, self.f ,0,255,cv2.NORM_MINMAX)
