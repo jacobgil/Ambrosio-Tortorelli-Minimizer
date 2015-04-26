@@ -27,10 +27,11 @@ edges = np.maximum(*edges)
 ![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/trees.jpg)![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/trees1000_0.01_0.001_result.jpg)
 
 ![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/star.jpg)![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/star100_0.01_0.01_result.jpg)
-<meta property="og:image" ![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty.jpg)![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty1000_0.01_0.01_result.jpg) />
+![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty.jpg)![enter image description here](http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty1000_0.01_0.01_result.jpg)
 
 [For more details refer here](http://jacobcv.blogspot.com/2015/04/smoothing-images-with-mumford-shah.html)
-<meta property="og:image" content="http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty1000_0.01_0.01_result.jpg">
 
 License:
 Use this for whatever you want.
+
+<meta property="og:image" content="http://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty1000_0.01_0.01_result.jpg">
