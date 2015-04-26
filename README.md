@@ -30,7 +30,7 @@ edges = np.maximum(*edges)
 ![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/star.jpg)![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/star100_0.01_0.01_result.jpg)
 ![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty.jpg)![enter image description here](https://raw.githubusercontent.com/jacobgil/Ambrosio-Tortorelli-Minimizer/master/images/kitty1000_0.01_0.01_result.jpg)
 
-[For more details refer here](jacobcv.blogspot.com/2015/04/smoothing-images-with-mumford-shah.html)
+[For more details refer here](http://jacobcv.blogspot.com/2015/04/smoothing-images-with-mumford-shah.html)
 
 License:
 Use this for whatever you want.
