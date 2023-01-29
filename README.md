@@ -1,4 +1,4 @@
-##Piecewise Smooth image approximation by minimizing the mumford-shah functional with the Ambrosio-Tortorelli approach ##
+# Piecewise Smooth image approximation by minimizing the mumford-shah functional with the Ambrosio-Tortorelli approach
 ```python
 import cv2
 from AmbrosioTortorelliMinimizer import *
